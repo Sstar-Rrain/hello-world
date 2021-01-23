@@ -1,2 +1,3 @@
 # hello-world
-greenhand
+green\n
+Nice to meet you!
